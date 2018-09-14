@@ -1,5 +1,5 @@
 # LIRC-STATEFUL (stateful remote support)
-### Main Functions are:	
+### New Functions are:	
 ```
 stateful_create [options] <directory>
 irsend [options] stateful_send <remote> <code> [<code> ... ]
