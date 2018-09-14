@@ -1,5 +1,4 @@
-# LIRC-STATEFUL
-## LIRC with stateful remote support
+# LIRC-STATEFUL (stateful remote support)
 ### Main Functions are:	
 ```
 stateful_create [options] <directory>
