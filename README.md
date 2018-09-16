@@ -1,4 +1,4 @@
-# LIRC-STATEFUL (stateful remote support)
+# LIRC-STATEFUL (AC Support)
 ### New Functions are:	
 ```
 stateful_create [options] <directory>
