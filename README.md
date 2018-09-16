@@ -27,7 +27,7 @@ lib/config_file.c
 
 tools/Makefile.am
 tools/irsend.cpp
-tools/tools/irsend.cpp
+tools/irsend.cpp
 ```
 
 [SEE LIRC MANUAL FOR FULL INFO](http://www.lirc.org/html/index.html)
