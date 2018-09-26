@@ -30,6 +30,6 @@ tools/irsend.cpp
 tools/irsend.cpp
 ```
 
-### At the moment, only NEC or similar protocol are supported.
+### At the moment, only NEC or similar protocols are supported.
 
 [SEE LIRC MANUAL FOR FULL INFO](http://www.lirc.org/html/index.html)
